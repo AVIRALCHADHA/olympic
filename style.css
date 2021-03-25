@@ -1,0 +1,18 @@
+h1
+{
+    color: coral;
+    font-size: 40px;
+}
+.body_background {
+    background-image: url("download.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas{
+    border-width: 10px;
+    border-color: white;
+    border-style: ridge;
+    background-color: white;
+    
+}
